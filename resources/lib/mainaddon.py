@@ -107,7 +107,7 @@ def compile_playable_podcast2(playable_podcast2):
 
 def get_playable_podcast3(soup2):
     subjects = []
-    for content in soup3.find_all('item'):
+    for content in soup2.find_all('item'):
         try:        
             link = content.find('enclosure')
             link = link.get('url')
