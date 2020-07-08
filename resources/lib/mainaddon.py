@@ -10,7 +10,7 @@ def get_soup1(url1):
     soup1 = BeautifulSoup(page.text, 'html.parser')
     print("type: ", type(soup1))
     return soup1
-get_soup1("http://feeds.soundcloud.com/users/soundcloud:users:548341779/sounds.rss")
+get_soup1("https://ij.org/feed/bound-by-oath/")
 def get_soup2(url2):
     page = requests.get(url2)
     soup2 = BeautifulSoup(page.text, 'html.parser')
@@ -20,7 +20,7 @@ get_soup2("http://feeds.soundcloud.com/users/soundcloud:users:84493247/sounds.rs
 
 def get_playable_podcast1(soup1):
     subjects = []
-    for content in soup1.find_all('item', limit=9):
+    for content in soup1.find_all('item', limit=12):
         try:        
             link = content.find('enclosure')
             link = link.get('url')
@@ -78,7 +78,7 @@ def compile_playable_podcast(playable_podcast):
 
 def get_playable_podcast2(soup2):
     subjects = []
-    for content in soup2.find_all('item', limit=9):
+    for content in soup2.find_all('item', limit=12):
         try:        
             link = content.find('enclosure')
             link = link.get('url')
