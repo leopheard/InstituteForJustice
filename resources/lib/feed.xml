@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
+    <channel>
+        <title>Bound By Oath by IJ</title>
+        <atom:link href="https://ij.org/feed/bound-by-oath/" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Episode 9 – Excessive Fines</title>
+            <link>https://ij.org/sc_long_podcast/excessive-fines/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=excessive-fines</link>
+            <pubDate>Thu, 20 Feb 2020 13:00:59 +0000</pubDate>
+            <description>&lt;p&gt;Prohibitions on excessive fines date back at least as far as Magna Carta in 1215, and the U.S. Constitution has barred excessive fines since 1791. But the Supreme Court has only recently begun to interpret what the Excessive Fines Clause means, and it wasn’t until 2019 that the Court said the Clause applies to the…&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="https://ij.org/sc_long_podcast/excessive-fines/"&gt;Episode 9 – Excessive Fines&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://ij.org"&gt;Institute for Justice&lt;/a&gt;.&lt;/p&gt;</description>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/ij.org/wp-content/uploads/2020/06/IJ_BBO_Ep109_v2.mp3" length="151310134" type="audio/mpeg" />
+            <itunes:title>Excessive Fines</itunes:title>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:duration>1:03:03</itunes:duration>
+        </item>

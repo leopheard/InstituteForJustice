@@ -2,7 +2,7 @@ import requests
 import re
 from bs4 import BeautifulSoup
 
-url1 = "http://feeds.soundcloud.com/users/soundcloud:users:548341779/sounds.rss"
+url1 = "https://ij.org/feed/bound-by-oath/"
 url2 = "http://feeds.soundcloud.com/users/soundcloud:users:84493247/sounds.rss"
 
 def get_soup1(url1):
