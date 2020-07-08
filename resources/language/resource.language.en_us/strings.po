@@ -19,7 +19,7 @@ msgid "All Bound By Oath"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Latest Bound By Oath"
+msgid "Bound By Oath"
 msgstr ""
 
 msgctxt "#30002"
