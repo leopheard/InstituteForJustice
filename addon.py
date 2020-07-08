@@ -2,7 +2,7 @@ from xbmcswift2 import Plugin, xbmcgui
 from resources.lib import mainaddon
 
 plugin = Plugin()
-url1 = "https://ij.org/feed/bound-by-oath/"
+url1 = "https://raw.githubusercontent.com/leopheard/InstituteForJustice/master/resources/lib/feed.xml"
 url2 = "http://feeds.soundcloud.com/users/soundcloud:users:84493247/sounds.rss"
 @plugin.route('/')
 def main_menu():
