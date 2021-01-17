@@ -14,7 +14,7 @@
     <platform>all</platform>
     <language>en_us</language>
     <summary lang="en">Institute For Justice Podcasts</summary>
-    <description lang="en">Institute For Justice Podcasts: Bound By Oath - a podcast series taking a deeper dive into different provisions of the Constitution–starting with the 14th Amendment, which turns 150 this year. Short Circuit - liven up your commute by subscribing to our bi-weekly podcast, where IJ lawyers and guests break down the latest developments in the federal circuit courts.</description>
+    <description lang="en">Institute For Justice Podcasts: Bound By Oath - a podcast series taking a deeper dive into different provisions of the Constitution–starting with the 14th Amendment, which turns 150 this year. Short Circuit - liven up your commute by subscribing to our bi-weekly podcast, where IJ lawyers and guests break down the latest developments in the federal circuit courts. Deep Dive: host Melanie Hildreth talks with litigators, researchers, and activists to give listeners an in-depth, inside look at cutting-edge legal and policy issues—and how they affect the lives of ordinary Americans everywhere.</description>
     <license>The MIT License (MIT)</license>
     <forum></forum>
     <email>leopheard@gmail.com</email>
@@ -25,7 +25,7 @@
 			<fanart>resources/media/fanart.jpg</fanart>
 			<screenshot>resources/media/1.jpg</screenshot>
 			<screenshot>resources/media/2.jpg</screenshot>
-			<screenshot>resources/media/icon.jpg</screenshot>
+			<screenshot>resources/media/3.jpg</screenshot>
 		</assets>
   </extension>
 </addon>
